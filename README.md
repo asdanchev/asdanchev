@@ -1,16 +1,60 @@
-## Hi there 👋
+# Anton Danchev
 
-<!--
-**asdanchev/asdanchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Python Developer focused on SaaS products, cloud infrastructure, and AI-powered applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer with experience building and operating production web applications from idea to deployment.
+
+My primary stack includes Python, Django, PostgreSQL, Docker, Redis, Celery, Linux, and modern cloud technologies.
+
+Recently I have been focused on:
+
+- SaaS product development
+- AI-powered applications
+- Automation and business workflows
+- Cloud infrastructure and DevOps
+- Large Language Model integrations
+
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## Featured Projects
+
+### Jazy
+CRM and appointment management platform for beauty and service professionals.
+
+Technologies:
+Django, PostgreSQL, Redis, Celery, Docker, Telegram Bot.
+
+### Mugalimder.kz
+AI-powered platform for teachers in Kazakhstan.
+
+Features:
+AI document generation, subscriptions, payment processing, multilingual support.
+
+### Fitraix
+AI fitness coach focused on nutrition, training, and habit tracking.
+
+### How2Code
+Multilingual educational platform for learning programming and software development.
+
+## Links
+
+LinkedIn:
+https://linkedin.com/in/asdanchev
+
+GitHub:
+https://github.com/asdanchev
+
+Portfolio:
+https://asdigital.kz
