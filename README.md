@@ -31,22 +31,55 @@ Recently I have been focused on:
 ## Featured Projects
 
 ### Jazy
+
 CRM and appointment management platform for beauty and service professionals.
 
-Technologies:
-Django, PostgreSQL, Redis, Celery, Docker, Telegram Bot.
+**Website:**  
+https://jazy.kz
+
+---
 
 ### Mugalimder.kz
+
 AI-powered platform for teachers in Kazakhstan.
 
-Features:
-AI document generation, subscriptions, payment processing, multilingual support.
+Features include AI document generation, subscriptions, payment processing, and multilingual support.
+
+**Website:**  
+https://mugalimder.kz
+
+---
 
 ### Fitraix
-AI fitness coach focused on nutrition, training, and habit tracking.
 
-### How2Code
-Multilingual educational platform for learning programming and software development.
+AI-powered fitness platform focused on nutrition, training, habit tracking, and coaching.
+
+**Website:**  
+https://fitraix.com
+
+---
+
+### Travelphabet
+
+Travel platform featuring destination guides, travel articles, and tourism-related content.
+
+**Website:**  
+https://travelphabet.com
+
+**Repository:**  
+https://github.com/asdanchev/travelphabet.com
+
+---
+
+### ASDigital Studio
+
+Personal software development portfolio and commercial projects.
+
+**Website:**  
+https://asdigital.kz
+
+**Repository:**  
+https://github.com/asdanchev/asdigital.kz
 
 ## Links
 
