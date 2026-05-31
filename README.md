@@ -79,7 +79,7 @@ Personal software development portfolio and commercial projects.
 https://asdigital.kz
 
 **Repository:**  
-https://github.com/asdanchev/asdigital.kz
+https://github.com/asdanchev/asdigital-portfolio
 
 ## Links
 
